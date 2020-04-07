@@ -1,0 +1,6 @@
+shell script is easy to understand language
+you can write a shell script to push pull data into and from the github
+git command line is easy to use
+git commands are very easy.
+we will use git for versioning the code changes by developwes
+good bye  corona

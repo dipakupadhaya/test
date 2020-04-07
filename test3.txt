@@ -1,0 +1,6 @@
+this is test file 3
+
+we are going to use it for testing
+testing git versioning
+moving file using script in github
+that's it for this file
