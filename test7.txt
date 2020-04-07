@@ -1,5 +1,6 @@
-this file name is test file 7
-
+this file name is test file 7me is dipak 
+i have did some chnages in code
+you can verify the changes
 we have given a script to write.
 I will write the shell script .
 It will be required to study git before writing script
