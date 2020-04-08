@@ -1,9 +1,12 @@
 this file name is test file 7me is dipak 
 i have did some chnages in code
 you can verify the changes
-we have given a script to write.
-I will write the shell script .
+we have given a script to write
+doung some changes.
+I will write the shell script 4.
 It will be required to study git before writing script
-without git I script 
-thank you
+without git I script  change git 
+thank you #
+thsnks again
 bye
+git is easy to use
