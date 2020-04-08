@@ -5,4 +5,6 @@ moving file using script in github
 testing git versioning some change
 I have done some changes
 bye
-code changed
+code change
+third changed
+I am changing this code
