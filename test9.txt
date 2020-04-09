@@ -7,10 +7,18 @@ $ cat .gitignore
 *.[oa]
 *~
 The first line tells Git to fkhsdhfskdgvkf
- “.a” — object and archive files that may be the product of building your code. The second line tells Git to ignore all files whose names end with a tilde (~), which is used by many text editors such as Emacs to mark temporary files. You may also include a log, tmp, or pid directory; automatically generated documentation; and so on. Setting up a .gitignore file for your new repository before you get going is generally a good idea so you don’t accidentally commit files that you really don’t want in your Git repository.
-
+ “.a” — object andjkfkhsd;g
+ archive files that may be the proskjhjgjearhggrrehgregeruuootf
+xxcvfdzxbvfdzjbduct of building your code. The second lddshjhvgsafdgvlge
+ine tells Git to ignore all files wvsddLKfvjsagjvdafg
+ddzshlghdafldjaflhose names end with a tilde (~), whicsdldfgldsaglk
+sgadsflglasfgh is used by many text editors such as 
+sdllghdfalgkjEjd;sgj;macs to mark temporary files. You may also include a log
+akdjgsdagjld;s, tmp, or pid directory; automatically gesdjgfslg
+dlsgfsalkgjksnerated documentation; and so on. Setting up a .gitignore file for your new repository before you get going is generally a good idea so you don’t accidentally commit files that you really don’t want in your Git repository.
+ds;fgsfgsgosgjsg
 The rules for the patternsjhsvhjsafhvvjuvw
-.gitignore file are as follows:
+.gitignore file dkjsgfhsdafghsgare as follows:
 
 Blank lines or lines stasfjhhfsahvhsdfvrting with # are ignored.
 
@@ -22,7 +30,10 @@ ADSKJVJKSDVSJDKVHJid recursivity.
 You can end patterSDJKVUJSHVHSAHVBns with a forward slash (/) to specify a directory.
 
 You can negate a pattern by startiJOADNVSDSHJVHSHBSVAH
-HJVUSDHVHSDng it with an exclamation point (!).
+jkahgharg
+kdhkghsahkjgd
+ksdghkskadg
+JVUSDHVHSDng it with an exclamation point (!).
 
 Glob patterns are like simplified regular expressions that shells use. An asterisk (*) matches zero or more characters; [abc] matches any character inside the brackets (in this case a, b, or c); a question mark (?) matches a single character; and brackets enclosing characters separated by a hyphen ([0-9]) matches any character between them (in this case 0 through 9). You can also use two asterisks to match nested directories; a/**/z would match a/z, a/b/z, a/b/c/z, and so on.
 

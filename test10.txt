@@ -1,17 +1,23 @@
-Viewing Your Staged and Unstaged Changes
-If the git status command is too vague for you — you want to know exactly what you changed, not just which files were changed — you can use the git diff command. We’ll cover git diff in more detail later, but you’ll probably use it most often to answer these two questions: What have you changed but not yet staged? And what have you staged that you are about to commit? Although git status answers those questions very generally by listing the file names, git diff shows you the exact lines added and removed — the patch, as it were.
+hrhjghjaersgiewing Your Staged and Unstaged Changes
+If the git skdshkgdusdhagh
+sdhghksdgkhj
+khddshjfvsfahkgvjhsgtatus command is too vague
+kadjsfgsadkgjks for you — you want to know exactly what you changed, not just which files were changed — you can use the git diff command. We’ll cover git diff in more detail later, but you’ll probably use it most often to answer these two questions: What have you changed but not yet staged? And what have you staged that you are about to commit? Although git status answers those questions very generally by listing the file names, git diff shows you the exact lines added and removed — the patch, as it were.
 
 Let’s say you edit and stage the README file again and then edit the CONTRIBUTING.md file without staging it. If you run your git status command, you once again see something like this:
 
 $ git status
-On branch master
-Your branch is up-to-date with 'origin/master'.
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
+On branch masteouhushghoasrugr
+Your branch is up-to-date wit
+jadsfksakdghsGh 'origin/master'.
+Changes to be JK.ASDSDFHDSHGHSD
+committed:
+KHFSDHKHHSG  (use "git reset HEAD <file>..." to unstage)
 
     modified:   README
 
-Changes not staged for commit:
+Changes notKLDSHFGSHLGHSGSAGH
+KSDGKHSFGHLASHJJASLK staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
@@ -25,8 +31,10 @@ index 8ebb991..643e24f 100644
 +++ b/CONTRIBUTING.md
 @@ -65,7 +65,8 @@ branch directly, things can get messy.
  Please include a nice description of your changes when you submit your PR;
- if we have to read the whole diff to figure out why you're contributing
- in the first place, you're less likely to get feedback and have your change
+ if we have to read jkfghadshahljdfal
+ksdfjhgldfghfdlj
+the whole diff to figure out why you're contributing
+ in the firstsdljgjljlsgdjhh: place, you're less likely to get feedback and have your change
 -merged in.
 +merged in. Also, split your changes into comprehensive chunks if your patch is
 +longer than a dozen lines.
