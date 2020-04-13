@@ -4,4 +4,6 @@ git command line is easy to use$
 git commands are very easy1.
 we will use git for versioning the code changes by developwes
 good bye  corona
+idid some changes in the file
+good bye  corona
 did some changes in the file
